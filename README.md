@@ -10,6 +10,8 @@
 # Changelog
 
 # Version
+## alpha 1.0.1
+added hello.py
 ## alpha 1.0.0
 
 
